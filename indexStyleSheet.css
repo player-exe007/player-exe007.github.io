@@ -1,10 +1,13 @@
-p.header {
+#header {
   text-align: center;
   font-family: tahoma;
   font-size: 50px;
   font-weight: 700;
   color: maroon;
 }
-p.paragraph {
+#paragraph {
   text-indent: 25px;
+}
+li {
+  font-size: 20px;
 }
