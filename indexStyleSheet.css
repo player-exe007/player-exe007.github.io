@@ -6,6 +6,7 @@ p.header {
   color: maroon;
 }
 p.paragraph {
+  text-indent: 25px;
   text-align: center;
-  font-size: 10px;
+  font-size: 18px;
 }
