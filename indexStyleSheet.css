@@ -3,4 +3,7 @@ p.header {
   font-size: 30px;
   color: maroon;
 }
+p.paragraph {
+  font-family: verdana;
+}
 
