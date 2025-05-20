@@ -1,9 +1,16 @@
 p.header {
+  text-align: center;
   font-family: tahoma;
-  font-size: 30px;
+  font-size: 50px;
+  font-weight: 600;
   color: maroon;
 }
 p.paragraph {
+  tex-align: center;
   font-family: verdana;
+  font-size: 20px;
+}
+p.list {
+  border: 1px solid black
 }
 
