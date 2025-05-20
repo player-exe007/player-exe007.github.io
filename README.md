@@ -1,2 +1,2 @@
 # html-css
-Contains practice stuff for HTML and CSS work
+Contains the my final project for Basic Web Design
