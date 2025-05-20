@@ -9,9 +9,3 @@ p.paragraph {
   text-align: center;
   font-size: 18px;
 }
-p.listDiv {
-  width: 200px;
-  height: 50px;
-  background: rgba(212, 15, 15, 0.63);
-  border-radius: 20px;
-}
