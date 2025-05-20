@@ -5,14 +5,3 @@ p.header {
   font-weight: 700;
   color: maroon;
 }
-p.paragraph {
-  tex-align: center;
-  font-family: verdana;
-  font-size: 15px;
-}
-p.listDiv {
-  border: 1px solid black;
-  color: rgba(212, 15, 15, 0.63);
-  width: 200px;
-  height: 50px;
-}
