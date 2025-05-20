@@ -1,2 +1,2 @@
 # html-css
-Contains the my final project for Basic Web Design
+Contains my final project for Basic Web Design
