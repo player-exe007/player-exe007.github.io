@@ -19,7 +19,7 @@
   font-size: 20px;
 }
 .hsfImg {
-  width: 100px;
+  width: 400px;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -45,13 +45,13 @@
   font-size: 20px;
 }
 .grhImg {
-  width: 100px;
+  width: 400px;
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
 .homeLink {
-  width: 120px;
+  width: 130px;
   background: rgba(212, 15, 15, 0.63);
   border-radius: 10px;
 }
