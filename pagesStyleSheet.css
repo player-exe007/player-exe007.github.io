@@ -19,7 +19,7 @@
   font-size: 20px;
 }
 .hsfImg {
-  size: 140%;
+  size: 200%;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -32,20 +32,20 @@
   color: darkred;
 }
 .grhDiv {
-  width: 300px;
-  height: 600px:
+  width: 420px;
   border-radius: 20px;
   background: cornsilk;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding: 10px 20px 10px 20px;
 }
 .grhParagraph {
   text-indent: 30px;
   font-size: 20px;
 }
 .grhImg {
-  size: 120%;
+  size: 200%;
   margin-left: auto;
   margin-right: auto;
   display: block;
