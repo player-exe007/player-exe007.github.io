@@ -18,8 +18,7 @@ li {
   margin-right: auto;
   width: 250px;
   height: 150px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 10px 10px 10px 10px;
   background: rgba(212, 15, 15, 0.63);
   border-radius: 20px;
 }
