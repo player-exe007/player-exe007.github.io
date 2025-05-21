@@ -1,1 +1,17 @@
-
+.hsfHeader {
+  text-align: center;
+  font-family: tahoma;
+  font-size: 50px;
+  font-weight: 700;
+  color: darkred;
+}
+.hsfParagraph {
+  text-indent: 30px;
+  font-size: 20px;
+}
+.hsfImg {
+  size: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
