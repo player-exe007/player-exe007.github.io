@@ -1,11 +1,11 @@
-.hsfHeader .grhHeader {
+.hsfHeader {
   text-align: center;
   font-family: tahoma;
   font-size: 50px;
   font-weight: 700;
   color: darkred;
 }
-.hsfDiv .grhDiv {
+.hsfDiv {
   width: 300px;
   height: 600px:
   border-radius: 20px;
@@ -14,11 +14,11 @@
   margin-left: auto;
   margin-right: auto;
 }
-.hsfParagraph .grhParagraph {
+.hsfParagraph {
   text-indent: 30px;
   font-size: 20px;
 }
-.hsfImg .grhImg {
+.hsfImg {
   size: 120%;
   margin-left: auto;
   margin-right: auto;
