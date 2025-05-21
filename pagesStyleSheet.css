@@ -24,4 +24,29 @@
   margin-right: auto;
   display: block;
 }
-
+.grhHeader {
+  text-align: center;
+  font-family: tahoma;
+  font-size: 50px;
+  font-weight: 700;
+  color: darkred;
+}
+.grhDiv {
+  width: 300px;
+  height: 600px:
+  border-radius: 20px;
+  background: cornsilk;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grhParagraph {
+  text-indent: 30px;
+  font-size: 20px;
+}
+.grhImg {
+  size: 120%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
