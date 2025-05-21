@@ -5,6 +5,13 @@
   font-weight: 700;
   color: darkred;
 }
+.hsfDiv {
+  border-radius: 20px;
+  background: cornsilk;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .hsfParagraph {
   text-indent: 30px;
   font-size: 20px;
@@ -15,3 +22,28 @@
   margin-right: auto;
   display: block;
 }
+.grhHeader {
+  text-align: center;
+  font-family: tahoma;
+  font-size: 50px;
+  font-weight: 700;
+  color: darkred;
+}
+.grhDiv {
+  border-radius: 20px;
+  background: cornsilk;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grhParagraph {
+  text-indent: 30px;
+  font-size: 20px;
+}
+.grhImg {
+  size: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
