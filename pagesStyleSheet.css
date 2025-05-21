@@ -1,11 +1,11 @@
-.hsfHeader {
+.hsfHeader .grhHeader {
   text-align: center;
   font-family: tahoma;
   font-size: 50px;
   font-weight: 700;
   color: darkred;
 }
-.hsfDiv {
+.hsfDiv .grhHeader {
   width: 300px;
   height: 600px:
   border-radius: 20px;
@@ -14,38 +14,12 @@
   margin-left: auto;
   margin-right: auto;
 }
-.hsfParagraph {
+.hsfParagraph .grhHeader {
   text-indent: 30px;
   font-size: 20px;
 }
-.hsfImg {
-  size: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-.grhHeader {
-  text-align: center;
-  font-family: tahoma;
-  font-size: 50px;
-  font-weight: 700;
-  color: darkred;
-}
-.grhDiv {
-  width: 300px;
-  height: 600px:
-  border-radius: 20px;
-  background: cornsilk;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.grhParagraph {
-  text-indent: 30px;
-  font-size: 20px;
-}
-.grhImg {
-  size: 100%;
+.hsfImg .grhImg {
+  size: 120%;
   margin-left: auto;
   margin-right: auto;
   display: block;
