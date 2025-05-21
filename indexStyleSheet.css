@@ -13,9 +13,8 @@ li {
   font-size: 20px;
 }
 .listDiv {
-  padding-left: 300px;
-  width: 220px;
-  height: 150px;
+  margin-left: 300px;
+  height: 125px;
   background: rgba(212, 15, 15, 0.63);
   border-radius: 20px;
 }
