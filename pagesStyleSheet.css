@@ -6,6 +6,8 @@
   color: darkred;
 }
 .hsfDiv {
+  width: 300px;
+  height: 600px:
   border-radius: 20px;
   background: cornsilk;
   display: block;
@@ -30,6 +32,8 @@
   color: darkred;
 }
 .grhDiv {
+  width: 300px;
+  height: 600px:
   border-radius: 20px;
   background: cornsilk;
   display: block;
