@@ -50,6 +50,84 @@
   margin-right: auto;
   display: block;
 }
+.hmsHeader {
+  text-align: center;
+  font-family: tahoma;
+  font-size: 50px;
+  font-weight: 700;
+  color: darkred;
+}
+.hmsDiv {
+  width: 420px;
+  border-radius: 20px;
+  background: cornsilk;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px 10px 20px;
+}
+.hmsParagraph {
+  text-indent: 30px;
+  font-size: 20px;
+}
+.hmsImg {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.grsHeader {
+  text-align: center;
+  font-family: tahoma;
+  font-size: 50px;
+  font-weight: 700;
+  color: darkred;
+}
+.grsDiv {
+  width: 420px;
+  border-radius: 20px;
+  background: cornsilk;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px 10px 20px;
+}
+.grsParagraph {
+  text-indent: 30px;
+  font-size: 20px;
+}
+.grsImg {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.cfbHeader {
+  text-align: center;
+  font-family: tahoma;
+  font-size: 50px;
+  font-weight: 700;
+  color: darkred;
+}
+.cfbDiv {
+  width: 420px;
+  border-radius: 20px;
+  background: cornsilk;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px 10px 20px;
+}
+.cfbParagraph {
+  text-indent: 30px;
+  font-size: 20px;
+}
+.cfbImg {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 .homeLink {
   width: 130px;
   background: rgba(212, 15, 15, 0.63);
